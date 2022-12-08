@@ -1,0 +1,4 @@
+SELECT *
+FROM produtos
+ORDER BY preco ASC
+LIMIT 3;
